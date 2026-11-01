@@ -1,6 +1,8 @@
 
 ## Описание данных
 
+Датасет взят с https://www.kaggle.com/datasets/ankushpanday2/heart-attack-risk-dataset-of-china/data
+
 Датасет содержит 28 переменных для 239,266 пациентов:
 
 ### Демографические переменные
